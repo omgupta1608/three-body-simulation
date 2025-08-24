@@ -1,4 +1,4 @@
-module ebiten-projectile
+module three-body-simulation
 
 go 1.24.1
 
