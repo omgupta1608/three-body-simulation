@@ -8,7 +8,7 @@ Users can tweak initial conditions, pause/resume/reset the simulation.
 
 ## Demo
 
-![](demo.mov)
+![](demo.gif)
 
 ---
 
